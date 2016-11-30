@@ -1,0 +1,3 @@
+Salami;300
+Banane;100
+Brot;123
